@@ -1,0 +1,829 @@
+@charset "utf-8";
+#capatotal {
+     position: absolute;
+    margin-left: 50%;
+    left: -500px;
+    width: 1000px;
+    height: 1513px;
+    background-color: #FFFFFF;
+    margin-top: -13px;
+}
+#capaslider {
+     position: absolute;
+    margin-left: 50%;
+    left: -500px;
+    width: 1000px;
+    height: 1513px;
+    background-color: #FFFFFF;
+    margin-top: -13px;
+}
+.capadebajo {
+    width: 1798px;
+    background-color: #292828;
+    height: 271px;
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: -500px;
+    left: 224px;
+    top: 1428px;
+}
+.capadebajo {
+    width: 1798px;
+    background-color: #292828;
+    height: 271px;
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: -500px;
+    left: 224px;
+    top: 1428px;
+    text-align: right;
+}
+.capadebajo {
+    width: 1798px;
+    background-color: #292828;
+    height: 271px;
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: -500px;
+    left: 224px;
+    top: 1428px;
+}
+.formulario {
+    width: 699px;
+    background-color: #FFFFFF;
+    height: 205px;
+    color: #000000;
+    position: absolute;
+    margin-left: -500px;
+    left: 502px;
+    top: 813px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;
+    font-size: 14px;
+    text-align: left;
+}
+.formulariodos {
+    width: 478px;
+    background-color: #FFFFFF;
+    height: 358px;
+    color: #000000;
+    position: absolute;
+    margin-left: -500px;
+    left: 542px;
+    top: 455px;
+}
+.capacopyright {
+    width: 1816px;
+    background-color: #000000;
+    height: 103px;
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: -500px;
+    left: 207px;
+    top: 1699px;
+}
+.textocopyright {
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    position: absolute;
+    left: 1px;
+    top: 1753px;
+    text-align: center;
+    font-size: 14px;
+    height: 12px;
+}
+.textonosotros {
+    color: #000000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    position: absolute;
+    left: 1px;
+    top: 446px;
+    text-align: justify;
+    font-size: 14px;
+    height: 453px;
+    width: 382px;
+}
+.textocontrol {
+    color: #000000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    position: absolute;
+    left: 0px;
+    top: 400px;
+    text-align: justify;
+    font-size: 14px;
+    height: 453px;
+    width: 382px;
+}
+.textoflotillas {
+    color: #000000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    position: absolute;
+    left: -1px;
+    top: 369px;
+    text-align: justify;
+    font-size: 14px;
+    height: 453px;
+    width: 382px;
+}
+.textofact {
+    color: #000000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    position: absolute;
+    left: 0px;
+    top: 400px;
+    text-align: justify;
+    font-size: 14px;
+    height: 453px;
+    width: 382px;
+}
+.textoaire {
+    color: #000000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    position: absolute;
+    left: 0px;
+    top: 400px;
+    text-align: justify;
+    font-size: 14px;
+    height: 453px;
+    width: 382px;
+}
+.textoadmin {
+    color: #000000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    position: absolute;
+    left: 0px;
+    top: 400px;
+    text-align: justify;
+    font-size: 14px;
+    height: 453px;
+    width: 382px;
+}
+.textodistribuidores {
+    color: #000000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    position: absolute;
+    left: 1px;
+    top: 368px;
+    text-align: justify;
+    font-size: 14px;
+    height: 64px;
+    width: 997px;
+}
+.textodistribuidoresdos {
+    color: #000000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    position: absolute;
+    left: 1px;
+    top: 433px;
+    text-align: justify;
+    font-size: 14px;
+    height: 64px;
+    width: 997px;
+}
+.titulootros {
+    color: #CED537;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 3px;
+    top: 392px;
+    text-align: center;
+    font-size: 29px;
+    height: 43px;
+    width: 382px;
+    font-weight: lighter;
+}
+.conocenos {
+    color: #FFFFFF;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 479px;
+    top: 918px;
+    text-align: center;
+    font-size: 26px;
+    height: 40px;
+    width: 196px;
+    font-weight: lighter;
+    background-color: #CED537;
+}
+.descubre {
+    color: #FFFFFF;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 686px;
+    top: 917px;
+    text-align: center;
+    font-size: 29px;
+    height: 39px;
+    width: 214px;
+    font-weight: lighter;
+    background-color: #292828;
+}
+.titulodistribuidores {
+    color: #CED537;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 1px;
+    top: 319px;
+    text-align: left;
+    font-size: 29px;
+    height: 43px;
+    width: 382px;
+    font-weight: lighter;
+}
+.titulocontacto {
+    color: #CED537;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 638px;
+    top: 460px;
+    text-align: left;
+    font-size: 29px;
+    height: 43px;
+    width: 182px;
+    font-weight: lighter;
+}
+.titulocontrol {
+    color: #CED537;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 0px;
+    top: 314px;
+    text-align: left;
+    font-size: 29px;
+    height: 43px;
+    width: 232px;
+    font-weight: lighter;
+}
+.tituloaire {
+    color: #CED537;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 0px;
+    top: 314px;
+    text-align: left;
+    font-size: 29px;
+    height: 43px;
+    width: 318px;
+    font-weight: lighter;
+}
+.tituloflotillas {
+    color: #CED537;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 0px;
+    top: 314px;
+    text-align: left;
+    font-size: 29px;
+    height: 43px;
+    width: 232px;
+    font-weight: lighter;
+}
+.titulofact {
+    color: #CED537;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 0px;
+    top: 314px;
+    text-align: left;
+    font-size: 29px;
+    height: 43px;
+    width: 232px;
+    font-weight: lighter;
+}
+.titulosistema {
+    color: #CED537;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 0px;
+    top: 314px;
+    text-align: left;
+    font-size: 29px;
+    height: 43px;
+    width: 232px;
+    font-weight: lighter;
+}
+.titulogaleria {
+    color: #CED537;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: -1px;
+    top: 208px;
+    text-align: left;
+    font-size: 29px;
+    height: 43px;
+    width: 350px;
+    font-weight: lighter;
+}
+.tituloform {
+    color: #000000;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 638px;
+    top: 460px;
+    text-align: left;
+    font-size: 16px;
+    height: 43px;
+    width: 182px;
+    font-weight: lighter;
+}
+.tituloformdos {
+    color: #000000;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 638px;
+    top: 460px;
+    text-align: left;
+    font-size: 16px;
+    height: 43px;
+    width: 182px;
+    font-weight: lighter;
+}
+.tituloformtres {
+    color: #000000;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 638px;
+    top: 460px;
+    text-align: left;
+    font-size: 16px;
+    height: 43px;
+    width: 182px;
+    font-weight: lighter;
+}
+.tituloformcuatro {
+    color: #000000;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    position: absolute;
+    left: 13px;
+    top: 137px;
+    text-align: center;
+    font-size: 16px;
+    height: 23px;
+    width: 357px;
+    font-weight: lighter;
+}
+.subtitulosnosotros {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    position: absolute;
+    left: -1px;
+    top: 149px;
+    text-align: left;
+    font-size: 15px;
+    height: 27px;
+    width: 382px;
+    font-weight: bold;
+}
+.subtitulosnosotrosdos {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    position: absolute;
+    left: -1px;
+    top: 239px;
+    text-align: left;
+    font-size: 15px;
+    height: 27px;
+    width: 382px;
+    font-weight: bold;
+}
+.subtitulosnosotrostres {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    position: absolute;
+    left: 0px;
+    top: 346px;
+    text-align: left;
+    font-size: 15px;
+    height: 27px;
+    width: 382px;
+    font-weight: bold;
+}
+.textoinicio {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    position: absolute;
+    left: 0px;
+    top: 266px;
+    font-size: 18px;
+    height: 15px;
+    width: 918px;
+    text-align: justify;
+}
+.textomenu {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    position: absolute;
+    left: 1px;
+    top: 211px;
+    font-size: 18px;
+    height: 15px;
+    width: 1000px;
+    text-align: justify;
+}
+.textogaslightsystem {
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    position: absolute;
+    left: 1px;
+    top: 1715px;
+    text-align: center;
+    font-size: 14px;
+    height: 22px;
+    width: 1000px;
+}
+.textosistema {
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    position: absolute;
+    left: 1px;
+    top: 1715px;
+    text-align: center;
+    font-size: 14px;
+    height: 22px;
+    width: 1000px;
+}
+
+
+#tablainfo {
+    position: absolute;
+    width: 679px;
+    height: 90px;
+    left: 6px;
+    top: 1480px;
+    color: #FFFFFF;
+}
+.logo {
+    position: absolute;
+    left: 629px;
+    top: 345px;
+}
+.volum {
+    position: absolute;
+    left: 421px;
+    top: 399px;
+}
+.flotillas {
+    position: absolute;
+    left: 0px;
+    top: 494px;
+    width: 1003px;
+    height: 580px;
+}
+.aire {
+    position: absolute;
+    left: 163px;
+    top: 450px;
+}
+.logo {
+    position: absolute;
+    left: 637px;
+    top: 348px;
+}
+.textoaire {
+    position: absolute;
+    left: 0px;
+    top: 361px;
+}
+.facturacion {
+    position: absolute;
+    left: 355px;
+    top: 448px;
+    width: 598px;
+    height: 315px;
+}
+.fotoadmin {
+    position: absolute;
+    left: 193px;
+    top: 488px;
+    width: 793px;
+    height: 516px;
+}
+.png {
+    position: absolute;
+    left: 343px;
+    top: 47px;
+    width: 24px;
+    height: 23px;
+}
+.pngdos {
+    position: absolute;
+    left: 274px;
+    top: 47px;
+    width: 13x;
+    height: 21px;
+}
+.pngtres {
+    position: absolute;
+    left: 304px;
+    top: 48px;
+    width: 13x;
+    height: 21px;
+}
+.fotodos {
+    position: absolute;
+    left: 420px;
+    top: 388px;
+    width: 565px;
+    height: 500px;
+}
+.fotomapa {
+    position: absolute;
+    left: 3px;
+    top: 508px;
+    width: 992px;
+    height: 435px;
+}
+.titulos {
+    position: absolute;
+    left: 1px;
+    top: 193px;
+    width: 1001px;
+    height: 106px;
+}
+.titulosdos {
+    position: absolute;
+    left: 1px;
+    top: 193px;
+    width: 1001px;
+    height: 106px;
+}
+.titulostres {
+    position: absolute;
+    left: 1px;
+    top: 194px;
+    width: 1001px;
+    height: 106px;
+}
+
+#mapa {
+    position: absolute;
+    text-align: right;
+    color: #000000;
+    left: 3px;
+    top: 341px;
+}
+
+.slider {
+	width: 95%;
+	margin: auto;
+	overflow: hidden;
+}
+
+.slider ul {
+	display: flex;
+	padding: 0;
+	width: 400%;
+	
+	animation: cambio 20s infinite;
+	animation-direction: alternate linear;
+}
+
+.slider li {
+	width: 100%;
+	list-style: none;
+}
+
+@keyframes cambio {
+	0% {margin-left: 0; }
+	20% {margin-left: 0%; }
+	
+	25% {margin-left: -100%; }
+	45% {margin-left: -100%; }
+	
+	50% {margin-left: -200%; }
+	70% {margin-left: -200%; }
+
+	75% {margin-left: -300%; }
+	100% {margin-left: -300%; }
+
+}
+.slider img {
+	width: 100%;
+}
+
+/*Estilos de la galeria*/
+
+.galeria {
+	width: 90%;
+	margin: auto;
+	list-style: none;
+	padding: 20px;
+	box-sizing: border-box;
+	
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.galeria li {
+	margin: 5px
+}
+
+.galeria img {
+	width: 150px;
+	height: 100px;
+	
+}
+
+body:after {
+  content: url(../img/close.png) url(../img/loading.gif) url(../img/prev.png) url(../img/next.png);
+  display: none;
+}
+
+/* line 11, ../sass/lightbox.sass */
+.lightboxOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  background-color: black;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+  opacity: 0.8;
+  display: none;
+}
+
+/* line 20, ../sass/lightbox.sass */
+.lightbox {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  z-index: 10000;
+  text-align: center;
+  line-height: 0;
+  font-weight: normal;
+}
+/* line 28, ../sass/lightbox.sass */
+.lightbox .lb-image {
+  display: block;
+  height: auto;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+}
+/* line 32, ../sass/lightbox.sass */
+.lightbox a img {
+  border: none;
+}
+
+/* line 35, ../sass/lightbox.sass */
+.lb-outerContainer {
+  position: relative;
+  background-color: white;
+  *zoom: 1;
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+}
+/* line 38, ../../../../.rvm/gems/ruby-1.9.3-p392/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+.lb-outerContainer:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* line 44, ../sass/lightbox.sass */
+.lb-container {
+  padding: 4px;
+}
+
+/* line 47, ../sass/lightbox.sass */
+.lb-loader {
+  position: absolute;
+  top: 43%;
+  left: 0%;
+  height: 25%;
+  width: 100%;
+  text-align: center;
+  line-height: 0;
+}
+
+/* line 56, ../sass/lightbox.sass */
+.lb-cancel {
+  display: block;
+  width: 32px;
+  height: 32px;
+  margin: 0 auto;
+  background: url(../img/loading.gif) no-repeat;
+}
+
+/* line 63, ../sass/lightbox.sass */
+.lb-nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 10;
+}
+
+/* line 71, ../sass/lightbox.sass */
+.lb-container > .nav {
+  left: 0;
+}
+
+/* line 74, ../sass/lightbox.sass */
+.lb-nav a {
+  outline: none;
+}
+
+/* line 77, ../sass/lightbox.sass */
+.lb-prev, .lb-next {
+  width: 49%;
+  height: 100%;
+  cursor: pointer;
+  /* Trick IE into showing hover */
+  display: block;
+}
+
+/* line 84, ../sass/lightbox.sass */
+.lb-prev {
+  left: 0;
+  float: left;
+}
+/* line 87, ../sass/lightbox.sass */
+.lb-prev:hover {
+  background: url(../img/prev.png) left 48% no-repeat;
+}
+
+/* line 90, ../sass/lightbox.sass */
+.lb-next {
+  right: 0;
+  float: right;
+}
+/* line 93, ../sass/lightbox.sass */
+.lb-next:hover {
+  background: url(../img/next.png) right 48% no-repeat;
+}
+
+/* line 96, ../sass/lightbox.sass */
+.lb-dataContainer {
+  margin: 0 auto;
+  padding-top: 5px;
+  *zoom: 1;
+  width: 100%;
+  -moz-border-radius-bottomleft: 4px;
+  -webkit-border-bottom-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  -moz-border-radius-bottomright: 4px;
+  -webkit-border-bottom-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+/* line 38, ../../../../.rvm/gems/ruby-1.9.3-p392/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+.lb-dataContainer:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* line 103, ../sass/lightbox.sass */
+.lb-data {
+  padding: 0 4px;
+  color: #bbbbbb;
+}
+/* line 106, ../sass/lightbox.sass */
+.lb-data .lb-details {
+  width: 85%;
+  float: left;
+  text-align: left;
+  line-height: 1.1em;
+}
+/* line 111, ../sass/lightbox.sass */
+.lb-data .lb-caption {
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 1em;
+}
+/* line 115, ../sass/lightbox.sass */
+.lb-data .lb-number {
+  display: block;
+  clear: left;
+  padding-bottom: 1em;
+  font-size: 12px;
+  color: #999999;
+}
+/* line 121, ../sass/lightbox.sass */
+.lb-data .lb-close {
+  display: block;
+  float: right;
+  width: 30px;
+  height: 30px;
+  background: url(../img/close.png) top right no-repeat;
+  text-align: right;
+  outline: none;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+  opacity: 0.7;
+}
+/* line 130, ../sass/lightbox.sass */
+.lb-data .lb-close:hover {
+  cursor: pointer;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity: 1;
+}
