@@ -403,11 +403,11 @@
     color: #000000;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     position: absolute;
-    left: 1px;
-    top: 211px;
+    left: 0px;
+    top: 266px;
     font-size: 18px;
     height: 15px;
-    width: 1000px;
+    width: 918px;
     text-align: justify;
 }
 .textomenu {
@@ -474,6 +474,11 @@
     position: absolute;
     left: 163px;
     top: 450px;
+}
+.logo {
+    position: absolute;
+    left: 637px;
+    top: 348px;
 }
 .textoaire {
     position: absolute;
